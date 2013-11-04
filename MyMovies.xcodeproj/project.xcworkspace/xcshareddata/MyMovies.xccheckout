@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>8C9F207F-64E5-46AB-B380-CB4D85F0214B</string>
+	<key>IDESourceControlProjectName</key>
+	<string>MyMovies</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>573D28E6-A1EF-488B-879F-50DC3293436B</key>
+		<string>https://github.com/abimed92/Week-11-MyMovies-iOS7.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>MyMovies.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>573D28E6-A1EF-488B-879F-50DC3293436B</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/abimed92/Week-11-MyMovies-iOS7.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>573D28E6-A1EF-488B-879F-50DC3293436B</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>573D28E6-A1EF-488B-879F-50DC3293436B</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Week-11-MyMovies-iOS7</string>
+		</dict>
+	</array>
+</dict>
+</plist>

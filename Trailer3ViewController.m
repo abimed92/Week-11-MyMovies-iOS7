@@ -3,7 +3,7 @@
 //  MyMovies
 //
 //  Created by Charles Konkol on 11/4/13.
-//  Copyright (c) 2013 Chuck Konkol. All rights reserved.
+//  Copyright (c) 2013 Abimael Medina. All rights reserved.
 //
 
 #import "Trailer3ViewController.h"

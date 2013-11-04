@@ -2,7 +2,7 @@
 //  MyMoviesTests.m
 //  MyMoviesTests
 //
-//  Created by Charles Konkol on 11/4/13.
+//  Created by Abimael Medina on 11/4/13.
 //  Copyright (c) 2013 Chuck Konkol. All rights reserved.
 //
 
